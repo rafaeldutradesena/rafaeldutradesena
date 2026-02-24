@@ -1,5 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/rafaeldutradesena)
-
 ![Rafael GitHub](https://github.com/rafaeldutradesena/rafaeldutradesena/assets/128555499/f1ab46f9-809a-404e-b027-89a295b86069)
 
 <div align="center"> 
