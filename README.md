@@ -8,12 +8,12 @@
 
 ## ⭐ Sobre mim
  
-- Trabalho com automação industrial ...
+- Engenheiro de Controle e Automação ...
 - Desenvolvedor Front-End ...
  
 <b>Neste momento da minha carreira estou buscando novas oportunidades de
 aprendizado e crescimento que serão extremamente aproveitadas, principalmente
-na área de desenvolvimento. Estudando na área da automação a mais de 7 anos. Sempre buscando
+na área de desenvolvimento. Estudando na área da automação a mais de 9 anos. Sempre buscando
 inovações e desenvolvimento tecnológico através do compartilhamento de
 conhecimentos.
 </b>
