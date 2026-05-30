@@ -13,9 +13,7 @@
  
 <b>Neste momento da minha carreira estou buscando novas oportunidades de
 aprendizado e crescimento que serão extremamente aproveitadas, principalmente
-na área de desenvolvimento. Estudando na área da automação a mais de 9 anos. Sempre buscando
-inovações e desenvolvimento tecnológico através do compartilhamento de
-conhecimentos.
+na área de desenvolvimento. Estudando e trabalhando na área da automação a mais de 9 anos.
 </b>
  
  ## ⭐ Hard skills
