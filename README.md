@@ -24,7 +24,7 @@ Minha experiência em engenharia desenvolveu competências como raciocínio lóg
  
  ## ⭐ Hard skills
  
-<div align="center">
+<div>
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
    </a> 
