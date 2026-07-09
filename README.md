@@ -1,5 +1,7 @@
 <h1><strong>Rafael Dutra - Desenvolvedor Full Stack</strong></h1>
 
+## Redes sociais
+
  <div>
   <a href="https://instagram.com/rafael_dsena?igshid=ZGUzMzM3NWJiOQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a><a href="mailto:rafaeldutrasena@gmail.com"><img src="https://img.shields.io/badge/-rafaeldutrasena%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a><a href="https://www.linkedin.com/in/rafael-dutra-de-sena-0400931b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div> 
