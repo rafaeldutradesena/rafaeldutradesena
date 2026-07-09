@@ -1,6 +1,6 @@
 Rafael Dutra - Desenvolvedor Full Stack.
 
-<div align="center"> 
+<div> 
    <a href="https://instagram.com/rafael_dsena?igshid=ZGUzMzM3NWJiOQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = https://accounts.google.com/AccountChooser/identifier?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AccountChooser><img src="https://img.shields.io/badge/-rafaeldutrasena@gmail.com-%23333?&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/rafael-dutra-de-sena-0400931b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
