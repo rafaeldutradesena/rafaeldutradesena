@@ -1,6 +1,8 @@
 <h1><strong>Rafael Dutra - Desenvolvedor Full Stack</strong></h1>
 
-<div><a href="https://instagram.com/rafael_dsena?igshid=ZGUzMzM3NWJiOQ==" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%20instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a><a href="mailto:rafaeldutrasena@gmail.com"><img src="https://img.shields.io/badge/%20rafaeldutrasena%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a><a href="https://www.linkedin.com/in/rafael-dutra-de-sena-0400931b3" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></div>
+<div><a href="https://instagram.com/rafael_dsena?igshid=ZGUzMzM3NWJiOQ==" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%20instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a><a href="mailto:rafaeldutrasena@gmail.com"><img src="https://img.shields.io/badge/%20rafaeldutrasena%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a><a href="https://www.linkedin.com/in/rafael-dutra-de-sena-0400931b3" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="28" />
+</a></div>
 
 ## ⭐ Sobre mim
  
