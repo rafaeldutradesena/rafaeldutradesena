@@ -1,15 +1,9 @@
 <h1><strong>Rafael Dutra - Desenvolvedor Full Stack</strong></h1>
 
 <div align="center">
-  <a href="https://instagram.com/rafael_dsena?igshid=ZGUzMzM3NWJiOQ==" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" />
-  </a>
-  <a href="mailto:rafaeldutrasena@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/rafael-dutra-de-sena-0400931b3" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
-  </a>
+  <a href="https://instagram.com/rafael_dsena?igshid=ZGUzMzM3NWJiOQ==" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" /></a>
+  <a href="mailto:rafaeldutrasena@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/rafael-dutra-de-sena-0400931b3" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" /></a>
 </div>
 
 ## ⭐ Sobre mim
