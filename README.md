@@ -11,9 +11,17 @@
 - Engenheiro de Controle e Automação ...
 - Desenvolvedor Full Stack ...
  
-<b>Neste momento da minha carreira estou buscando novas oportunidades de
-aprendizado e crescimento que serão extremamente aproveitadas, principalmente
-na área de desenvolvimento. Estudando e trabalhando na área da automação a mais de 9 anos.
+<b>Sou Engenheiro de Controle e Automação, com mais de 4 anos de experiência na indústria, atuando com sistemas de automação, controle de processos, diagnóstico de falhas e desenvolvimento de soluções voltadas para eficiência operacional.
+ 
+Atualmente, estou expandindo minha atuação para a área de Desenvolvimento Web Full Stack, aprofundando conhecimentos em desenvolvimento Front-end e Back-end por meio de projetos práticos e estudo contínuo. Tenho me dedicado à construção de aplicações web responsivas, consumo de APIs REST, versionamento com Git e boas práticas de desenvolvimento.
+ 
+Minha experiência em engenharia desenvolveu competências como raciocínio lógico, resolução de problemas, análise de sistemas e trabalho em equipe, habilidades que aplico diretamente no desenvolvimento de software.
+ 
+🎯 Objetivo: oportunidade como Desenvolvedor Full Stack Júnior, Desenvolvedor Front-end, Desenvolvedor Back-end ou estágio na área de desenvolvimento.
+ 
+💻 Tecnologias: HTML, CSS, JavaScript, React, Node.js, Git, APIs REST e desenvolvimento com Inteligência Artificial.
+ 
+🚀 Diferenciais: perfil analítico, aprendizado contínuo, facilidade para compreender sistemas complexos, comprometimento com qualidade e busca constante por evolução técnica.
 </b>
  
  ## ⭐ Hard skills
